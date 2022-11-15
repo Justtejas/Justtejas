@@ -1,17 +1,19 @@
- - 👋 Hi, I’m @Justtejas
- - 👀 I’m interested in Web backend.
- - 🌱 I’m currently learning Node/Express, MySQL, MongoDB and PostgreSQL.
- - 💞️ I’m looking to collaborate on projects with Node/Express.
-- 📫 How to reach me:
-<div align="center">
- <a href="[Twitter](https://twitter.com/justttejas)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-<a href="[LinkedIn](https://www.linkedin.com/in/tejas-p-49218722a/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-</div>
+ <h1>Hi there 👋</h1>
+ My name is Tejas and I am a Computer Science student from India.
+ <br><br>
+ <strong>🌱 Interests:</strong>
+ 
+ - Backend Web Development.
+ 
+<strong>📌 Working on:</strong>
+- Node/Express.
+- MySQL and MongoDB.
+
+<strong>📡 Reach me:</strong>
+
+- [Twitter](https://twitter.com/justttejas)
+    
+- [LinkedIn](https://www.linkedin.com/in/tejas-p-49218722a/)
 
 <!---
 Justtejas/Justtejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
