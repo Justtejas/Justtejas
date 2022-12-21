@@ -11,8 +11,6 @@
  - MySQL and MongoDB.
 
  <strong>📡 Reach me:</strong>
-
- - [Twitter](https://twitter.com/justttejas)
     
  - [LinkedIn](https://www.linkedin.com/in/tejas-p-49218722a/)
 
