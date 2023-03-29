@@ -8,7 +8,9 @@
  <strong>📌 Working on:</strong>
  
  - Node/Express.
- - MySQL and MongoDB.
+ - Next.js.
+ - MongoDB.
+ - Firebase.
 
  <strong>📡 Reach me:</strong>
     
