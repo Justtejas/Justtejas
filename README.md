@@ -8,6 +8,8 @@
  <strong>📌 Working on:</strong>
  
  - Node/Express.
+ - React.
+ - TailWindCSS.
  - Next.js.
  - MongoDB.
  - Firebase.
