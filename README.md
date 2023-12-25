@@ -16,7 +16,7 @@
 
  <strong>📡 Reach me:</strong>
     
- - [LinkedIn](https://www.linkedin.com/in/tejas-p-49218722a/)
+ - [LinkedIn](https://www.linkedin.com/in/tejaspantoji/)
 
 <!---
 Justtejas/Justtejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
