@@ -1,22 +1,10 @@
- <h1>Hi there 👋</h1>
- My name is Tejas and I am a Computer Science student from India.
- <hr>
- <strong>🌱 Interests:</strong>
-
- - Web Backend Development.
+ <h2>Hi there 👋, I'm Tejas Pantoji</h2>
  
- <strong>📌 Working on:</strong>
- 
- - Node/Express.
- - React.
- - TailWindCSS.
- - Next.js.
- - MongoDB.
- - Firebase.
+<b>I'm a Computer Science student from India. I started my software journey building programs in C, C++ and Java while I was completing my Diploma. Started web development while pursuing my Bachelor's Degree in 2022 and have since enjoyed developing backend tools and APIs in JavaScript, Go and TypeScript. I'd love to work at a startup in a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+</b>
 
- <strong>📡 Reach me:</strong>
-    
- - [LinkedIn](https://www.linkedin.com/in/tejaspantoji/)
+ <strong>Contact me - </strong>
+  [LinkedIn](https://www.linkedin.com/in/tejaspantoji/)
 
 <!---
 Justtejas/Justtejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
